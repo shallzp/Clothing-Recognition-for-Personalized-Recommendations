@@ -49,3 +49,11 @@ https://drive.google.com/drive/folders/13VAZ0nWsaqTLhLEqVyHdcbxQH1xk3xrg?usp=sha
 
 ### Note :
 This file is only made for working in google colab. If you want to run it on any other option such as jupiter notebook changes may occur respectively.
+
+## Test Cases :
+![Screenshot (179)](https://user-images.githubusercontent.com/115816678/226195827-211bcf3d-b7ac-460f-8d46-fef401972ccc.png)
+![Screenshot (180)](https://user-images.githubusercontent.com/115816678/226195902-97b3f560-206f-4528-a814-acd8d31e563c.png)
+
+![Screenshot (181)](https://user-images.githubusercontent.com/115816678/226196229-df5a084c-0523-4afa-8362-82af62a4dfc6.png)
+![Screenshot (183)](https://user-images.githubusercontent.com/115816678/226196237-fb92a4a6-99cc-494d-8e2b-65f28c64edb0.png)
+![Screenshot (184)](https://user-images.githubusercontent.com/115816678/226196240-7e23adfc-ed53-459c-a47a-c530f1d29059.png)
